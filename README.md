@@ -54,9 +54,14 @@
 ### - Express session
 ### - Heroku
 
-## Screenshot:
+## Screenshot:![post-screenshot](https://user-images.githubusercontent.com/93881224/158044195-973e8213-184b-4058-903b-f99aa9e88429.JPG)
+![update-post](https://user-images.githubusercontent.com/93881224/158044198-1a6130e7-3e2b-41dd-a621-768fb20bd071.JPG)
 
-## URL:
+## URL: https://obscure-earth-61012.herokuapp.com/
+### This URL is not currently working. Constantly getting code H "App crashed" error.
 
 ## GitHub Repo URL:
 ### https://github.com/demkoa01/Tech-Blog
+
+## Video of app working on localhost:
+### https://drive.google.com/file/d/1Njtu4JZ2FlhLxwYflguKSPeZrGi37wA4/view
